@@ -1,0 +1,17 @@
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\bin\Debug\TweeteRapid.exe
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\bin\Debug\TweeteRapid.pdb
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.Form1.resources
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.Properties.Resources.resources
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.exe
+c:\users\naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.pdb
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\bin\Debug\TweeteRapid.exe.config
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.bitly.resources
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.link.resources
+C:\Users\Naren\Documents\Visual Studio 2010\Projects\TweeteRapid\TweeteRapid\bin\Debug\Twitterizer2.dll
+C:\Users\Naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.AboutBox1.resources
+C:\Users\Naren\documents\visual studio 2010\Projects\TweeteRapid\TweeteRapid\obj\x86\Debug\TweeteRapid.credentials.resources
