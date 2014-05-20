@@ -1,6 +1,8 @@
 tweeterapid
 ===========
 
+~This project is no longer maintained, its written almost 4 years back. I just migrated it from Google Code. ~
+
 TweeteRapid is a basic Twitter Client written in C# (.NET 4.0). It is targeted at developers who wish to develop their own twitter client.
 
 
