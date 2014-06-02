@@ -1,7 +1,7 @@
 ﻿// Last modified on 26th May 2010 1:31 IST by Naren.
 // This is not a fully tested version. Only the Core working components have been tested.
 // TwitPic must be authenticated via OAuth, currently direct authentication is used.
-
+// This code is too old to be maintained anymore! - Naren June 2, 2014.
 // Note: Twitter allows only 150 Requests per hour.
 
 using System;
